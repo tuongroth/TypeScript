@@ -1,0 +1,3 @@
+"scripts": {
+  "calculateExercises": "ts-node exerciseCalculator.ts"
+}
